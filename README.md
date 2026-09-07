@@ -4,6 +4,7 @@ Measuring and modelling emulsion destabilisation from creaming index time-series
 This self-directed project is a home study tracking creaming in 14 oil-in-water emulsions over 259 hours, comparing a thickener series against an emulsifier series.
 
 Key result:
+
 <img width="452" height="178" alt="image" src="https://github.com/user-attachments/assets/3e7fdc5d-bec8-4ec3-8442-a1fce1cff466" />
 
 Polysorbate 80 reduced the creaming rate constant monotonically (0.0678 → 0.0030 h⁻¹), saturating above 1%.
