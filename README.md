@@ -9,7 +9,7 @@ Key result:
 
 Polysorbate 80 reduced the creaming rate constant monotonically (0.0678 → 0.0030 h⁻¹), saturating above 1%.
 
-Xanthan was non-monotonic: 0.05% increased it by ~27% before higher concentrations cut it tenfold — consistent with depletion flocculation competing with the viscosity rise.
+Xanthan was non-monotonic: 0.05% increased it by ~27% before higher concentrations cut it by almost 30x  — consistent with depletion flocculation competing with the viscosity rise.
 
 Both converged on ~0.003 h⁻¹ at their top concentrations by different mechanisms, so creaming rate alone can't distinguish the two routes to stability.
 
