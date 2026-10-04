@@ -14,4 +14,4 @@ Xanthan was non-monotonic: 0.05% increased it by ~27% before higher concentratio
 Both converged on ~0.003 h⁻¹ at their top concentrations by different mechanisms, so creaming rate alone can't distinguish the two routes to stability.
 
 Method summary:
-14 cylinders of 20% o/w sesame oil emulsion, seven formulations in duplicate: control, xanthan (0.05/0.10/0.20%) and polysorbate 80 (0.5/1.0/2.0%). Creaming index read off the graduations over 259 h, with CI(t) = CI_max(1 − e^(−kt)) fitted per cylinder via scipy.optimize.curve_fit. One cylinder excluded (disturbed); run ended when microbial growth appeared.
+14 cylinders of 20% o/w sesame oil emulsion, seven formulations in duplicate: control, xanthan (0.05/0.10/0.20%) and polysorbate 80 (0.5/1.0/2.0%). Creaming index read off the graduations over 259 h, with CI(t) = CI_max(1 − e^(−kt)) fitted per cylinder via scipy.optimize.curve_fit. One cylinder excluded due to being disturbed; run ended when microbial growth appeared.
