@@ -1,7 +1,7 @@
 # emulsion-tracker
 Measuring and modelling emulsion destabilisation from creaming index time-series
 
-This self-directed project is a home study tracking creaming in 14 oil-in-water emulsions over 259 hours, comparing a thickener series against an emulsifier series. The full report is given as "Emulsion Stability Project Report".
+This self-directed project is a home study tracking creaming in 14 oil-in-water emulsions over 259 hours, comparing a thickener series against an emulsifier series. The full report is given as "Emulsion Stability Project Report" and the individual data readings were stored in data.xslx prior to being processed with python.
 
 Key result:
 
